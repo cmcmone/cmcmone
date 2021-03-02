@@ -8,8 +8,7 @@ I'm a senior in computer science at Western Connecticut State University and wil
 
 - 📫 How to reach me: [Gmail](mailto:cmcmone@gmail.com) [LinkedIn](https://www.linkedin.com/in/roychen168/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmcmone&layout=compact&theme=onedark)](https://github.com/cmcmone)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmcmone&layout=compact&theme=onedark)]
 ![cmcmone's Github stats](https://github-readme-stats.vercel.app/api?username=cmcmone&show_icons=true&theme=onedark)
 
 
