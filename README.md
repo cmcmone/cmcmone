@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 ###  I'm a senior in computer science at Western Connecticut State University and will graduate in May. I'm looking for a part-time/full-time position in software engineering. 
 
