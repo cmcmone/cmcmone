@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I’m Roy!👋
 
-###  I'm a senior in computer science at Western Connecticut State University and will graduate in May. I'm looking for a part-time/full-time position in software engineering. 
+I'm a senior in computer science at Western Connecticut State University and will graduate in May. I'm looking for a part-time/full-time position in software engineering. 
 
 - 😄 I enjoy coding in Java, JavaScript, C++, C#, HTML/CSS, and more.
 
